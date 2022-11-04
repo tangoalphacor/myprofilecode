@@ -10,7 +10,7 @@ body{
     background: black;
     color: black;
     background-image: url(https://i.gifer.com/Dfrz.gif);
-    background-size: contain;
+    background-size:cover;
 }
 header{
     
